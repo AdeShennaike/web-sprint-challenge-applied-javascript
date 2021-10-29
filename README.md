@@ -63,7 +63,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 It stands for DOcument Object Model. Its a language neutral API. An object representation of the elements of a webpage.
 
 2. What is an event?
-It's an action or command issued by the user.
+ Its an interaction between the user and a webpage. There are many types of events and each one creates an object that contains information about the event triggered.
 
 3. What is an event listener?
 It listens for an event. It takes 2 arguments, the first being the event itself and the second being the action you want to happen as a result of the event being triggered.
@@ -72,3 +72,4 @@ It listens for an event. It takes 2 arguments, the first being the event itself 
 You can't use all array methods on a NodeList so you must convert it into an array to do so.
 
 5. What is a component?
+It's different parts of a whole. Usually comprised of HTML, CSS, and JavaScript.
